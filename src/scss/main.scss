@@ -4,7 +4,7 @@ html{background: #079;font:400 1.6rem sans-serif;}
 body{
     display:grid;
     place-content: center;
-    min-height: 100vh;text-align: center;
+    min-height: 100vh;
 }
 header{position:relative; top:-9rem;left:15rem;}
-main{height:100%;display: flex; justify-content: space-around; align-items: center;}
+main{height:100%;display: flex; justify-content: space-around; align-items: center;text-align: center;}
