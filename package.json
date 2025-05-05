@@ -1,0 +1,13 @@
+{
+  "name": "my_fwjs-cardbaseclass-tdd",
+  "version": "1.0.0",
+  "description": "TDD with Cypress developed tested js-class Objects",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass --watch ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
