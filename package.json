@@ -4,10 +4,13 @@
   "description": "TDD with Cypress developed tested js-class Objects",
   "main": "index.js",
   "scripts": {
-    "start": "sass --watch ",
+    "start": "sass --watch src/scss/main.scss:public/css/main.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.87.0"
+  }
 }
